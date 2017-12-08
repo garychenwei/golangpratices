@@ -1,0 +1,4 @@
+package: golangpratices/gokitpratices
+import:
+- package: github.com/go-kit/kit
+  version: v0.6.0
